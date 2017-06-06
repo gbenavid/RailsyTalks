@@ -27,3 +27,5 @@ $ rake haml:erb2haml
 
 Sources:
 https://github.com/indirect/haml-rails
+
+Thank you!
