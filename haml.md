@@ -12,7 +12,7 @@ gem "haml-rails", "~> 0.9"
 
 
 # Next
-Convert the .erb layout fifle by using the command:
+Convert the .erb layout file by using the command:
 ```
 $ rails generate haml:application_layout convert
 ```
